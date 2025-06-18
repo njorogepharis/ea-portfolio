@@ -20,7 +20,7 @@ body::before {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: url('images/watermark.jpg') center center no-repeat;
+  background: url("images/watermark.jpg") center center no-repeat;
   background-size: 65%;
   background-blend-mode: multiply;
   opacity: 0.15;
